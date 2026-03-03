@@ -1,14 +1,14 @@
 # Power-Bi-Dashboard
 My Power BI and Tableau dashboard projects.
 # Dashboard Project
-This repository contains a collection of interactive Power BI dashboards developed to demonstrate expertise in:
-Real-Time Data Integration (REST APIs)
-Advanced DAX Modeling
-KPI & Performance Tracking
-Time-Series Analysis
-Financial & Retail Analytics
-Geospatial Visualization
-Each project focuses on solving real-world business problems using data-driven insights.
+--> This repository contains a collection of interactive Power BI dashboards developed to demonstrate expertise in:
+--> Real-Time Data Integration (REST APIs)
+--> Advanced DAX Modeling
+--> KPI & Performance Tracking
+--> Time-Series Analysis
+--> Financial & Retail Analytics
+--> Geospatial Visualization
+--> Each project focuses on solving real-world business problems using data-driven insights.
 
 # Dashboard Projects Included
 📈 Stock Market Analytics Dashboard
