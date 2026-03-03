@@ -1,6 +1,6 @@
 # Power-Bi-Dashboard
 My Power BI and Tableau dashboard projects.
-# Sales Dashboard Project
+# Dashboard Project
 
 ## Tools Used:
 - Power BI
